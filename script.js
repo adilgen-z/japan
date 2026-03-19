@@ -91,7 +91,7 @@ tl.set(".page6-content h1", {
 });
 
  }
-        //  loadingAnimation();
+         loadingAnimation();
 function cursorAnimation() {
    Shery.mouseFollower({
 skew: true,
